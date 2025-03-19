@@ -19,7 +19,7 @@ GET https://api.freeapi.app/api/v1/public/youtube/videos
 
 ## 🚀 Deployment
 You can access the live version of the application here:  
-👉 
+👉 https://azizul-topo.github.io/JS-02-Project/
 ## Technologies Used
 - HTML
 - CSS
